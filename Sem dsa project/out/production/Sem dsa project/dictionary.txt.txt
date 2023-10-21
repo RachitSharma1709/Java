@@ -1,0 +1,78 @@
+apple: A fruit that grows on trees.
+banana: A long, curved fruit that grows in clusters.
+car: A four-wheeled vehicle used for transportation.
+dog: A domesticated mammal known for its loyalty and companionship.
+elephant: A large, herbivorous mammal with a trunk and tusks.
+fish: A vertebrate animal that lives in water and breathes through gills.
+grape: A small, sweet fruit often used for making wine.
+house: A building where people live.
+ice cream: A frozen dessert made from dairy products and flavorings.
+jacket: A piece of clothing worn over the upper body.
+kangaroo: A marsupial found in Australia known for hopping on its hind legs.
+lion: A large, carnivorous feline.
+mango: A tropical fruit with a sweet and juicy flesh.
+nebula: A vast cloud of gas and dust in space.
+ocean: A large body of saltwater covering most of the Earth's surface.
+piano: A musical instrument with keys that produce sound.
+queen: A female monarch or ruler.
+river: A natural flowing watercourse, usually toward an ocean.
+sunflower: A tall plant with large, yellow flowers.
+tiger: A large, predatory cat with distinctive stripes.
+umbrella: A device used to protect against rain or sunlight.
+volcano: A mountain that can erupt with lava and ash.
+whale: A large marine mammal.
+xylophone: A musical instrument with wooden bars.
+yacht: A recreational boat for sailing or cruising.
+zebra: A black-and-white striped African mammal.
+acronym: A word formed from the initial letters of a phrase.
+butterfly: An insect with colorful wings and an articulated body.
+candle: A source of light made of wax and a wick.
+dolphin: A marine mammal known for its intelligence and agility.
+eagle: A large bird of prey with a hooked beak and strong talons.
+forest: A large area covered chiefly with trees and undergrowth.
+guitar: A musical instrument with strings and a hollow body.
+helicopter: A type of aircraft that can hover in place.
+island: A piece of land surrounded by water.
+jungle: A dense and overgrown tropical forest.
+koala: A marsupial native to Australia known for its eucalyptus diet.
+leopard: A large, spotted feline.
+mountain: A high and steep elevation of the Earth's surface.
+nightingale: A small songbird known for its melodious night songs.
+octopus: A marine animal with a soft body and multiple arms.
+penguin: A flightless bird found in cold regions, especially Antarctica.
+quasar: A celestial object that emits intense radiation.
+rocket: A vehicle used for space exploration or propulsion.
+seahorse: A small marine fish with a curved neck and upright posture.
+tornado: A violent and rotating column of air.
+umbilical cord: A flexible cord that connects a baby to its mother's placenta.
+vampire: A mythological creature that feeds on the blood of the living.
+wombat: A marsupial known for its burrowing habits.
+xenophobia: A fear or hatred of strangers or foreigners.
+yoga: A physical, mental, and spiritual practice originating in India.
+zeppelin: A type of airship or dirigible.
+antelope: A fast-running herbivorous mammal found in grasslands.
+barbecue: A method of cooking food over an open flame or hot coals.
+caterpillar: The larval stage of a butterfly or moth.
+dandelion: A common wildflower with yellow flowers and fluffy seeds.
+earthquake: Sudden shaking of the Earth's surface due to tectonic activity.
+flamingo: A tall, wading bird known for its pink plumage.
+galaxy: A vast system of stars, gas, and dust held together by gravity.
+hedgehog: A small, spiky mammal with a curled-up defense mechanism.
+iguana: A large, herbivorous lizard found in tropical regions.
+jigsaw: A type of puzzle that requires fitting together oddly shaped pieces.
+kaleidoscope: A toy with mirrors that creates colorful, shifting patterns.
+lemur: A primate native to Madagascar with large, expressive eyes.
+mosquito: A small flying insect known for its irritating bites.
+narwhal: A medium-sized whale with a long, spiral tusk.
+october: The tenth month of the year in the Gregorian calendar.
+parrot: A brightly colored bird known for its ability to mimic sounds.
+quokka: A small, herbivorous marsupial with a friendly appearance.
+rhinoceros: A large, thick-skinned mammal with one or two horns.
+saxophone: A musical instrument in the woodwind family.
+toucan: A tropical bird with a large, colorful beak.
+umbra: The fully shaded inner region of a shadow.
+victorious: Achieving victory or success in a competition.
+whisper: To speak softly and quietly.
+xylopolist: A dealer in wood products.
+yesterday: The day before today.
+zealous: Having or showing zeal, enthusiasm, or fervor.
